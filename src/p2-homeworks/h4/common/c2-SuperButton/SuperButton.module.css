@@ -1,0 +1,14 @@
+.default {
+    background: aquamarine;
+    width: 70px;
+}
+
+.red {
+    background: red;
+    margin: 10px 0 10px 0;
+    width: 70px;
+}
+.default:disabled {
+    background: silver;
+    margin-bottom: 10px;
+}
