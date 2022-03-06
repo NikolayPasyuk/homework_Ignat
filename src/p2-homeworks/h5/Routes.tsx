@@ -17,6 +17,7 @@ const Rou = () => {
     return (
         <div>
             <Routes>
+                <Route path={'/'} element={<PreJunior/>}/>
                 <Route path={PATH.PRE_JUNIOR} element={<PreJunior/>}/>
                 <Route path={PATH.JUNIOR} element={<Junior/>}/>
                 <Route path={PATH.JUNIOR_PlUS} element={<JuniorPlus/>}/>
