@@ -1,0 +1,10 @@
+.name {
+    padding: 5px 0 0 10px;
+    display: inline-block;
+    width: 170px;
+    color: darkcyan;
+}
+
+.age {
+    color: brown;
+}

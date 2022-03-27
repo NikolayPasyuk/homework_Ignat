@@ -1,11 +1,13 @@
 .default {
     background: aquamarine;
     width: 70px;
+    margin: 0 10px 0 0;
+    padding: 0;
 }
 
 .red {
     background: red;
-    margin: 10px 0 10px 0;
+    margin: 10px 10px 10px 0;
     width: 70px;
 }
 .default:disabled {
