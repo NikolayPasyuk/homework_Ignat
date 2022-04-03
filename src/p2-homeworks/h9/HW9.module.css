@@ -1,0 +1,15 @@
+.homework {
+    font-family: "Arial Black", sans-serif;
+    color: darkgoldenrod;
+    padding-left: 10px;
+}
+
+.time {
+    color: darkcyan;
+    padding: 5px 0 5px 35px;
+}
+
+.date {
+    color: brown;
+    padding: 0px 0 10px 30px;
+}
