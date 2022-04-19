@@ -1,0 +1,21 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.homework {
+    font-family: "Arial Black", sans-serif;
+    color: #ff00ff;
+    padding-left: 10px;
+}
+
+.spanOne {
+    margin-right: 280px;
+}
+
+.spanTwo {
+    margin-right: 280px;
+}
