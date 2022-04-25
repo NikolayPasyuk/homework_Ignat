@@ -1,0 +1,29 @@
+.dark {
+    background: dimgrey;
+}
+
+.dark-text {
+    font-family: "Arial Black", sans-serif;
+    padding-left: 10px;
+    color: darkgoldenrod;
+}
+
+.red {
+    background: lightcoral;
+}
+
+.red-text {
+    font-family: "Arial Black", sans-serif;
+    padding-left: 10px;
+    color: aqua;
+}
+
+.some {
+    background: lightgreen;
+}
+
+.some-text {
+    font-family: "Arial Black", sans-serif;
+    padding-left: 10px;
+    color: darkslateblue;
+}
